@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Getting_Started</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">退出</string>
+    <string name="title_activity_custom_action_bar">CustomActionBarActivity</string>
+    <string name="title_activity_lifecycle">LifecycleActivity</string>
+    <string name="button_start_activity">启动Activity</string>
+</resources>
