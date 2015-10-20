@@ -10,4 +10,12 @@
     tools:showIn="@layout/activity_lifecycle"
     tools:context="training.course.getting_started.LifecycleActivity">
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_start_custom_activity"
+        android:id="@+id/lifecycle_button"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>
